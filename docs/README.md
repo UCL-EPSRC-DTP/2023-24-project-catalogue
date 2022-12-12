@@ -2,4 +2,4 @@
 
 This catalogue lists all the projects available for applicants to the UCL EPSRC DTP for 2023/24. [See the main website for details on how to apply.](https://rebrand.ly/tvz9zlk)
 
-Project list comin soon
+Project list coming soon
