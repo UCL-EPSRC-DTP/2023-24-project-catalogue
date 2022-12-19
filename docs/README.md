@@ -12,97 +12,99 @@ Or you can [browse the catalogue by lead department](#browse-projects-by-lead-de
 
 
 ## Browse projects by research theme
-[Advanced Materials](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/advanced-materials.html)
+[Advanced Materials](themes/advanced-materials.md)
 
-[Artificial Intelligence and Robotics](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/artificial-intelligence-and-robotics.html)
+[Artificial Intelligence and Robotics](themes/artificial-intelligence-and-robotics.md)
 
-[Circular Economy](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/circular-economy.html)
+[Circular Economy](themes/circular-economy.md)
 
-[Digital Security and Resilience](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/digital-security-and-resilience.html)
+[Digital Security and Resilience](themes/digital-security-and-resilience.md)
 
-[Energy and Decarbonisation](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/energy-and-decarbonisation.html)
+[Energy and Decarbonisation](themes/energy-and-decarbonisation.md)
 
-[Engineering](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/engineering.html)
+[Engineering](themes/engineering.md)
 
-[Healthcare Technologies](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/healthcare-technologies.html)
+[Healthcare Technologies](themes/healthcare-technologies.md)
 
-[Information and Communication Technologies](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/information-and-communication-technologies.html)
+[Information and Communication Technologies](themes/information-and-communication-technologies.md)
 
-[Manufacturing The Future](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/manufacturing-the-future.html)
+[Manufacturing The Future](themes/manufacturing-the-future.md)
 
-[Mathematical Sciences](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/mathematical-sciences.html)
+[Mathematical Sciences](themes/mathematical-sciences.md)
 
-[Physical Sciences](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/physical-sciences.html)
+[Physical Sciences](themes/physical-sciences.md)
 
-[Quantum Technologies](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/themes/quantum-technologies.html)
+[Quantum Technologies](themes/quantum-technologies.md)
 
 
 ## Browse projects by lead department
 
 #### Built Environment Faculty
-[Bartlett School of Environment, Energy and Resources](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/bartlett-school-of-environment-energy-and-resources.html.html)
+[Bartlett School of Environment, Energy and Resources](departments/bartlett-school-of-environment-energy-and-resources.md)
 
-[Bartlett School of Sustainable Construction](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/bartlett-school-of-sustainable-construction.html.html)
+[Bartlett School of Sustainable Construction](departments/bartlett-school-of-sustainable-construction.md)
 
-[Centre for Advanced Spatial Analysis](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/centre-for-advanced-spatial-analysis.html.html)
+[Centre for Advanced Spatial Analysis](departments/centre-for-advanced-spatial-analysis.md)
 
-[Institute for Risk and Disaster Reduction (IRDR)](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/institute-for-risk-and-disaster-reduction.html.html)
+[Institute for Risk and Disaster Reduction (IRDR)](departments/institute-for-risk-and-disaster-reduction.md)
 
 
 #### Engineering Faculty
-[Biochemical Engineering](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/biochemical-engineering.html.html)
+[Biochemical Engineering](departments/biochemical-engineering.md)
 
-[Chemical Engineering](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/chemical-engineering.html.html)
+[Chemical Engineering](departments/chemical-engineering.md)
 
-[Civil, Environmental and Geomatic Engineering (CEGE)](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/civil-environmental-and-geomatic-engineering.html.html)
+[Civil, Environmental and Geomatic Engineering (CEGE)](departments/civil-environmental-and-geomatic-engineering.md)
 
-[Computer Science](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/computer-science.html.html)
+[Computer Science](departments/computer-science.md)
 
-[Electronic and Electrical Engineering (EEE)](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/electronic-and-electrical-engineering.html.html)
+[Electronic and Electrical Engineering (EEE)](departments/electronic-and-electrical-engineering.md)
 
-[Mechanical Engineering](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/mechanical-engineering.html.html)
+[Mechanical Engineering](departments/mechanical-engineering.md)
 
-[Medical Physics and Biomedical Engineering](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/medical-physics-and-biomedical-engineering.html.html)
+[Medical Physics and Biomedical Engineering](departments/medical-physics-and-biomedical-engineering.md)
 
-[Science, Technology, Engineering and Public Policy (STEAPP)](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/science-technology-engineering-and-public-policy.html.html)
+[Science, Technology, Engineering and Public Policy (STEAPP)](departments/science-technology-engineering-and-public-policy.md)
 
-[Security and Crime Science](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/security-and-crime-science.html.html)
+[Security and Crime Science](departments/security-and-crime-science.md)
 
 
 #### Mathematical and Physical Sciences (MAPS) Faculty
-[Chemistry](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/chemistry.html.html)
+[Chemistry](departments/chemistry.md)
 
-[Earth Sciences](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/earth-sciences.html.html)
+[Earth Sciences](departments/earth-sciences.md)
 
-[London Centre for Nanotechnology (LCN)](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/london-centre-for-nanotechnology.html.html)
+[London Centre for Nanotechnology (LCN)](departments/london-centre-for-nanotechnology.md)
 
-[Mathematics](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/mathematics.html.html)
+[London Centre for Nanotechnology (LCN)](departments/london-centre-for-nanotechnology.md)
 
-[Physics and Astronomy](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/physics-and-astronomy.html.html)
+[Mathematics](departments/mathematics.md)
 
-[Science and Technology Studies](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/science-and-technology-studies.html.html)
+[Physics and Astronomy](departments/physics-and-astronomy.md)
 
-[Space and Climate Physics (MSSL)](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/space-and-climate-physics.html.html)
+[Science and Technology Studies](departments/science-and-technology-studies.md)
 
-[Statistical Science](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/statistical-science.html.html)
+[Space and Climate Physics (MSSL)](departments/space-and-climate-physics.md)
+
+[Statistical Science](departments/statistical-science.md)
 
 
 #### Life Sciences Faculty
-[Division of Biosciences](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/division-of-biosciences.html.html)
+[Division of Biosciences](departments/division-of-biosciences.md)
 
-[Laboratory for Molecular Cell Biology (LMCB)](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/laboratory-for-molecular-cell-biology.html.html)
+[Laboratory for Molecular Cell Biology (LMCB)](departments/laboratory-for-molecular-cell-biology.md)
 
-[School of Pharmacy](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/school-of-pharmacy.html.html)
+[School of Pharmacy](departments/school-of-pharmacy.md)
 
 
 #### Medical Sciences Faculty
-[Cancer Institute](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/cancer-institute.html.html)
+[Cancer Institute](departments/cancer-institute.md)
 
-[Division of Medicine](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/division-of-medicine.html.html)
+[Division of Medicine](departments/division-of-medicine.md)
 
-[Division of Surgery and Interventional Sciences](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/division-of-surgery-and-interventional-sciences.html.html)
+[Division of Surgery and Interventional Sciences](departments/division-of-surgery-and-interventional-sciences.md)
 
-[Eastman Dental Institute](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/departments/eastman-dental-institute.html.html)
+[Eastman Dental Institute](departments/eastman-dental-institute.md)
 
 
 
