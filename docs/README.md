@@ -76,8 +76,6 @@ Or you can [browse the catalogue by lead department](#browse-projects-by-lead-de
 
 [London Centre for Nanotechnology (LCN)](departments/london-centre-for-nanotechnology.md)
 
-[London Centre for Nanotechnology (LCN)](departments/london-centre-for-nanotechnology.md)
-
 [Mathematics](departments/mathematics.md)
 
 [Physics and Astronomy](departments/physics-and-astronomy.md)
