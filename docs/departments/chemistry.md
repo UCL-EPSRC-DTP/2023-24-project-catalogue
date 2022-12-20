@@ -21,7 +21,3 @@ Information about Chemistry can be found on the [departmental website](https://w
 [2228bd1171](../projects/2228bd1171.md) Polaronic structures and properties in High Tc superconducting oxides
 
 [2228bd1172](../projects/2228bd1172.md) Photoemission studies of halide perovskite materials
-
-[2228bd1181](../projects/2228bd1181.md) Chemistry Student Transitions: Setting Students up for Success in the Physical Sciences
-
-[2228bd1195](../projects/2228bd1195.md) Embedding sustainability in chemistry and STEM subject in higher education, using systems and network thinking to develop future sustainability policy makers, researchers and practitioners

@@ -1,4 +1,4 @@
-This page lists all the available projects in the Healthcare Technologies research theme.
+–This page lists all the available projects in the Healthcare Technologies research theme.
 
 Information about Healthcare Technologies can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/healthcare-technologies-theme/)
 
@@ -16,7 +16,7 @@ Information about Healthcare Technologies can be found on [EPSRC’s website](ht
 
 [2228bd1041](../projects/2228bd1041.md) Breakfast saves lives: development of novel v(egg)etarian and fruit-derived biological wound dressings
 
-[2228bd1030](../projects/2228bd1030.md) : Engineering and validating proton beam therapy on advanced pancreatic cancer human tissue mimetics
+[2228bd1030](../projects/2228bd1030.md) Engineering and validating proton beam therapy on advanced pancreatic cancer human tissue mimetics
 
 [2228bd1048](../projects/2228bd1048.md) Engineering advanced biomaterial based 3D human-microbiota models
 

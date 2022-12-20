@@ -6,7 +6,7 @@ Information about Manufacturing The Future can be found on [EPSRC’s website](h
 
 [2228bd1009](../projects/2228bd1009.md) Cell free DNA Synthesis to Understand and Improve Transfection Efficiency
 
-[2228bd1077](../projects/2228bd1077.md) HIGH THROUGHPUT METAGENOME MINING FOR ENZYME DISCOVERY, LARGE-SCALE LIBRARY CREATION AND ASSAY (Ring-fenced Project)
+[2228bd1077](../projects/2228bd1077.md) HIGH THROUGHPUT METAGENOME MINING FOR ENZYME DISCOVERY, LARGE-SCALE LIBRARY CREATION AND ASSAY
 
 [2228bd1078](../projects/2228bd1078.md) Enzyme-based materials for sustainable tree shelters
 
@@ -26,6 +26,6 @@ Information about Manufacturing The Future can be found on [EPSRC’s website](h
 
 [2228bd1119](../projects/2228bd1119.md) Optimal design and operation of energy-efficient and sustainable distillation processes
 
-[2228bd1123](../projects/2228bd1123.md) Sustainable production of value-added chemicals from renewable feedstocks using Halomonas sp. in continuous fermentation (ring-fenced project)
+[2228bd1123](../projects/2228bd1123.md) Sustainable production of value-added chemicals from renewable feedstocks using Halomonas sp. in continuous fermentation
 
-[2228bd1146](../projects/2228bd1146.md) Enabling Continuous Manufacturing of mRNA Vaccines (ring-fenced project)
+[2228bd1146](../projects/2228bd1146.md) Enabling Continuous Manufacturing of mRNA Vaccines

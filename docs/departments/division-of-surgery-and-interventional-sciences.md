@@ -6,7 +6,7 @@ Information about Division of Surgery and Interventional Sciences can be found o
 
 [2228bd1066](../projects/2228bd1066.md) Towards the development of a high-throughput microfluidic platform for drug screening: using skeletal muscle as an ‘exemplar’ tissue
 
-[2228bd1030](../projects/2228bd1030.md) : Engineering and validating proton beam therapy on advanced pancreatic cancer human tissue mimetics
+[2228bd1030](../projects/2228bd1030.md) Engineering and validating proton beam therapy on advanced pancreatic cancer human tissue mimetics
 
 [2228bd1048](../projects/2228bd1048.md) Engineering advanced biomaterial based 3D human-microbiota models
 

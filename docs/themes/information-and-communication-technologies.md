@@ -4,7 +4,7 @@ Information about Information and Communication Technologies can be found on [EP
 
 [2228bd1028](../projects/2228bd1028.md) Widely tuneable photonic integrated optical phase lock loop for atmospheric sensing
 
-[2228bd1063](../projects/2228bd1063.md) Ring-Fenced: Improving Outdoor Positioning using Wi-Fi Signals
+[2228bd1063](../projects/2228bd1063.md) Improving Outdoor Positioning using Wi-Fi Signals
 
 [2228bd1168](../projects/2228bd1168.md) Physical, Virtual and Augmented Reality Data Devices: Creating a step change towards Net Zero with a human focused communication of building data
 

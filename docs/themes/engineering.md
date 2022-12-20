@@ -12,7 +12,7 @@ Information about Engineering can be found on [EPSRC’s website](https://www.uk
 
 [2228bd1006](../projects/2228bd1006.md) Learning from policy ‘messes’: a systems analysis of evidence use in practice
 
-[2228bd1042](../projects/2228bd1042.md) Ring Fenced' - An engineering method for the provision of microplastics-free water to haemodialysis systems in hospitals
+[2228bd1042](../projects/2228bd1042.md) An engineering method for the provision of microplastics-free water to haemodialysis systems in hospitals
 
 [2228bd1080](../projects/2228bd1080.md) Modelling of salt crystallisation processes in porous heritage building materials
 

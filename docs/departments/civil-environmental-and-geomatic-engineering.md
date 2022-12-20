@@ -2,9 +2,9 @@ This page lists all the available projects hosted in the Civil, Environmental an
 
 Information about Civil, Environmental and Geomatic Engineering (CEGE) can be found on the [departmental website](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering)
 
-[2228bd1042](../projects/2228bd1042.md) Ring Fenced' - An engineering method for the provision of microplastics-free water to haemodialysis systems in hospitals
+[2228bd1042](../projects/2228bd1042.md) An engineering method for the provision of microplastics-free water to haemodialysis systems in hospitals
 
-[2228bd1063](../projects/2228bd1063.md) Ring-Fenced: Improving Outdoor Positioning using Wi-Fi Signals
+[2228bd1063](../projects/2228bd1063.md) Improving Outdoor Positioning using Wi-Fi Signals
 
 [2228bd1072](../projects/2228bd1072.md) Activity-based models for household sustainability (CEGE Open proposal)
 
