@@ -40,6 +40,8 @@ Or you can [browse the catalogue by lead department](#browse-projects-by-lead-de
 ## Browse projects by lead department
 
 #### Built Environment Faculty
+[Bartlett School of Architecture](departments/bartlett-school-of-architecture.md)
+
 [Bartlett School of Environment, Energy and Resources](departments/bartlett-school-of-environment-energy-and-resources.md)
 
 [Bartlett School of Sustainable Construction](departments/bartlett-school-of-sustainable-construction.md)
