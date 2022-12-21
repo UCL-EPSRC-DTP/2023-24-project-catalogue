@@ -1,3 +1,5 @@
+### Department: Space and Climate Physics (MSSL)
+
 This page lists all the available projects hosted in the Space and Climate Physics (MSSL) department.
 
 Information about Space and Climate Physics (MSSL) can be found on the [departmental website](https://www.ucl.ac.uk/mssl)

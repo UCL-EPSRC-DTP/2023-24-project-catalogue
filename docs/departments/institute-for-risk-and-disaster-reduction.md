@@ -1,3 +1,5 @@
+### Department: Institute for Risk and Disaster Reduction (IRDR)
+
 This page lists all the available projects hosted in the Institute for Risk and Disaster Reduction (IRDR) department.
 
 Information about Institute for Risk and Disaster Reduction (IRDR) can be found on the [departmental website](https://www.ucl.ac.uk/risk-disaster-reduction)

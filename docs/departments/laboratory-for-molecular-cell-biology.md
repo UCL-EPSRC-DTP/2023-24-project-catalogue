@@ -1,3 +1,5 @@
+### Department: Laboratory for Molecular Cell Biology (LMCB)
+
 This page lists all the available projects hosted in the Laboratory for Molecular Cell Biology (LMCB) department.
 
 Information about Laboratory for Molecular Cell Biology (LMCB) can be found on the [departmental website](https://www.ucl.ac.uk/lmcb)

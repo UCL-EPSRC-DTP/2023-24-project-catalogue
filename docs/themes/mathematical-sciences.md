@@ -1,22 +1,20 @@
+### Theme: Mathematical Sciences
+
 This page lists all the available projects in the Mathematical Sciences research theme.
 
 Information about Mathematical Sciences can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/mathematical-sciences-theme/)
+
+[2228bd1004](../projects/2228bd1004.md) Markov chain Monte Carlo algorithms in computational genomics
 
 [2228bd1055](../projects/2228bd1055.md) Active droplet dynamics during collective cell migration
 
 [2228bd1086](../projects/2228bd1086.md) A Data-driven Distributionally Robust Optimization Framework for Coordinated Decision Making in Whole Energy Systems
 
-[2228bd1004](../projects/2228bd1004.md) Markov chain Monte Carlo algorithms in computational genomics
-
 [2228bd1094](../projects/2228bd1094.md) Continued fractions and total positivity in enumerative combinatorics
-
-[2228bd1207](../projects/2228bd1207.md) Hybrid numerical-asymptotic methods for wave scattering problems
 
 [2228bd1112](../projects/2228bd1112.md) Beyond the Hodge Theorem: curl and asymmetric pseudodifferential projections
 
 [2228bd1113](../projects/2228bd1113.md) Time-dependent ‘visco-plasticity’
-
-[2228bd1210](../projects/2228bd1210.md) Computational methods for compressible flows
 
 [2228bd1121](../projects/2228bd1121.md) Theoretical Foundations of Multi-Output Gaussian Processes
 
@@ -32,6 +30,8 @@ Information about Mathematical Sciences can be found on [EPSRC’s website](http
 
 [2228bd1149](../projects/2228bd1149.md) All-at-once deep learning methods for nonlinear PDE based inverse problems
 
+[2228bd1155](../projects/2228bd1155.md) Minimal surfaces and eigenvalues of the Laplacian
+
 [2228bd1161](../projects/2228bd1161.md) Novel estimation procedures for multivariate and spatial extreme value analysis
 
 [2228bd1166](../projects/2228bd1166.md) Mathematical modelling for sickle cell disease
@@ -40,6 +40,8 @@ Information about Mathematical Sciences can be found on [EPSRC’s website](http
 
 [2228bd1178](../projects/2228bd1178.md) Extremal graph theory
 
-[2228bd1155](../projects/2228bd1155.md) Minimal surfaces and eigenvalues of the Laplacian
-
 [2228bd1197](../projects/2228bd1197.md) Symmetry and structure in pure mathematics
+
+[2228bd1207](../projects/2228bd1207.md) Hybrid numerical-asymptotic methods for wave scattering problems
+
+[2228bd1210](../projects/2228bd1210.md) Computational methods for compressible flows

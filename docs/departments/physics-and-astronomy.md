@@ -1,3 +1,5 @@
+### Department: Physics and Astronomy
+
 This page lists all the available projects hosted in the Physics and Astronomy department.
 
 Information about Physics and Astronomy can be found on the [departmental website](https://www.ucl.ac.uk/physics-astronomy)

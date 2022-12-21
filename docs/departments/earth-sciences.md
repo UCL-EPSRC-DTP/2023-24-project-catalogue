@@ -1,3 +1,5 @@
+### Department: Earth Sciences
+
 This page lists all the available projects hosted in the Earth Sciences department.
 
 Information about Earth Sciences can be found on the [departmental website](https://www.ucl.ac.uk/earth-sciences)
