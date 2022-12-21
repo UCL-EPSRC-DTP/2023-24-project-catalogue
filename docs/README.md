@@ -82,6 +82,8 @@ Or you can [browse the catalogue by lead department](#browse-projects-by-lead-de
 
 [Physics and Astronomy](departments/physics-and-astronomy.md)
 
+[Science and Technology Studies](departments/science-and-technology-studies.md)
+
 [Space and Climate Physics (MSSL)](departments/space-and-climate-physics.md)
 
 [Statistical Science](departments/statistical-science.md)
