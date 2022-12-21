@@ -48,8 +48,6 @@ Information about Physical Sciences can be found on [EPSRC’s website](https://
 
 [2228bd1167](../projects/2228bd1167.md) Optical trapping and spectroscopy of 2D nanomaterials
 
-[2228bd1181](../projects/2228bd1181.md) Chemistry Student Transitions: Setting Students up for Success in the Physical Sciences
-
 [2228bd1182](../projects/2228bd1182.md) Testing the weak equivalence principle with antimatter via Rydberg-Atom Interferometry
 
 [2228bd1213](../projects/2228bd1213.md) Understanding the physical principles of RNA topology regulation
