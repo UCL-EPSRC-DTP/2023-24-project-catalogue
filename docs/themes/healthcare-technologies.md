@@ -137,3 +137,15 @@ Information about Healthcare Technologies can be found on [EPSRC’s website](ht
 [2228bd1218](../projects/2228bd1218.md) Developing probiotic interventions to reduce the emergence and persistence of pathogens in built environments
 
 [2228bd1219](../projects/2228bd1219.md) Novel probiotic interventions to reduce antimicrobial resistance in built environments
+
+[2228bd1223](../projects/2228bd1223.md) Model-based reconstruction of arterial spin labelled MRI for improved measurement of cerebral perfusion in neurological disease
+
+[2228bd1225](../projects/2228bd1225.md) A wearable brain scanner for the hospital ward
+
+[2228bd1227](../projects/2228bd1227.md) A Bayesian active-learning framework for experiments in psychophysics
+
+[2228bd1229](../projects/2228bd1229.md) Development of MRI-compatible Graphene-based Probes for Rodent and Human Electrophysiology
+
+[2228bd1231](../projects/2228bd1231.md) Diagnostics and rehabilitation after stroke in enriched XR+ML environments
+
+[2228bd1233](../projects/2228bd1233.md) Flexible sensor arrays and source modelling for spinal cord imaging

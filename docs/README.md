@@ -89,6 +89,13 @@ Or you can [browse the catalogue by lead department](#browse-projects-by-lead-de
 [Statistical Science](departments/statistical-science.md)
 
 
+#### Brain Sciences Faculty
+[Division of Psychology and Language Sciences (PALS)](departments/division-of-psychology-and-language-sciences.md)
+
+[Ear Institute](departments/ear-institute.md)
+
+[Queen Square Institute of Neurology](departments/queen-square-institute-of-neurology.md)
+
 #### Life Sciences Faculty
 [Division of Biosciences](departments/division-of-biosciences.md)
 

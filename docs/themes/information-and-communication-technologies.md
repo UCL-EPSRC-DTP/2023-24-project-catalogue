@@ -19,3 +19,5 @@ Information about Information and Communication Technologies can be found on [EP
 [2228bd1206](../projects/2228bd1206.md) Developing the first wireless multi Giga-bit link in the 2-5 THz region.
 
 [2228bd1211](../projects/2228bd1211.md) Intelligent space-division multiplexing for optical communication systems
+
+[2228bd1230](../projects/2228bd1230.md) Disentangling peripheral and central contributions to impaired perception via inversion of the neural code
