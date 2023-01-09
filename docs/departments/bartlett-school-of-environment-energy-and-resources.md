@@ -39,3 +39,5 @@ Information about Bartlett School of Environment, Energy and Resources can be fo
 [2228bd1186](../projects/2228bd1186.md) Technology options for a circular Net zero Transformation of the UK steel industry: insights from a demand based perspective
 
 [2228bd1208](../projects/2228bd1208.md) A high-fidelity coupled urban-building and microclimate modelling approach for energy-efficient and climate-responsive buildings
+
+[2228bc1240](../projects/2228bc1240.md) The future role of UK refineries in a net zero transition

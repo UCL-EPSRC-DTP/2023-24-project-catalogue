@@ -47,3 +47,5 @@ Information about Energy and Decarbonisation can be found on [EPSRC’s website]
 [2228bd1203](../projects/2228bd1203.md) Scalable nature-inspired design of perovskite solar cells architectures
 
 [2228bd1208](../projects/2228bd1208.md) A high-fidelity coupled urban-building and microclimate modelling approach for energy-efficient and climate-responsive buildings
+
+[2228bc1240](../projects/2228bc1240.md) The future role of UK refineries in a net zero transition

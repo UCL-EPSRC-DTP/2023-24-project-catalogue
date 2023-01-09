@@ -15,3 +15,5 @@ Information about Statistical Science can be found on the [departmental website]
 [2228bd1142](../projects/2228bd1142.md) Causal graphical models without using structural equation models
 
 [2228bd1161](../projects/2228bd1161.md) Novel estimation procedures for multivariate and spatial extreme value analysis
+
+[2228bc1239](../projects/2228bc1239.md) Causal inference to estimate treatment effects from Real World Evidence
