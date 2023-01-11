@@ -20,4 +20,12 @@ Information about Information and Communication Technologies can be found on [EP
 
 [2228bd1211](../projects/2228bd1211.md) Intelligent space-division multiplexing for optical communication systems
 
+[2228bd1221](../projects/2228bd1221.md) Developing technology for adolescent wellbeing
+
+[2228bd1222](../projects/2228bd1222.md) Developing equitable technologies for older adults
+
+[2228bd1224](../projects/2228bd1224.md) User-Centred AI/ML for an Automatic Time Use Diary for Digital Health
+
 [2228bd1230](../projects/2228bd1230.md) Disentangling peripheral and central contributions to impaired perception via inversion of the neural code
+
+[2228bd1236](../projects/2228bd1236.md) Development of neuroimaging-compatible wearable music technology in the visual and somatosensory modalities

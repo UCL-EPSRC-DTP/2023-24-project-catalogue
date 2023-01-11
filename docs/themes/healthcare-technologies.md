@@ -149,3 +149,5 @@ Information about Healthcare Technologies can be found on [EPSRC’s website](ht
 [2228bd1231](../projects/2228bd1231.md) Diagnostics and rehabilitation after stroke in enriched XR+ML environments
 
 [2228bd1233](../projects/2228bd1233.md) Flexible sensor arrays and source modelling for spinal cord imaging
+
+[2228bd1235](../projects/2228bd1235.md) Otoacoustic emmisions
