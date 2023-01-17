@@ -48,8 +48,6 @@ Or you can [browse the catalogue by lead department](#browse-projects-by-lead-de
 
 [Centre for Advanced Spatial Analysis](departments/centre-for-advanced-spatial-analysis.md)
 
-[Institute for Risk and Disaster Reduction (IRDR)](departments/institute-for-risk-and-disaster-reduction.md)
-
 
 #### Engineering Faculty
 [Biochemical Engineering](departments/biochemical-engineering.md)
@@ -75,6 +73,8 @@ Or you can [browse the catalogue by lead department](#browse-projects-by-lead-de
 [Chemistry](departments/chemistry.md)
 
 [Earth Sciences](departments/earth-sciences.md)
+
+[Institute for Risk and Disaster Reduction (IRDR)](departments/institute-for-risk-and-disaster-reduction.md)
 
 [London Centre for Nanotechnology (LCN)](departments/london-centre-for-nanotechnology.md)
 
